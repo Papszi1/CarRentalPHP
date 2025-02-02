@@ -1,0 +1,38 @@
+[
+    {
+        "from": "2025-01-01",
+        "to": "2025-01-10",
+        "email": "korchmaros.daniel@gmail.com",
+        "car": 1
+    },
+    {
+        "from": "2025-01-12",
+        "to": "2025-01-17",
+        "email": "admin@ikarrental.hu",
+        "car": "1"
+    },
+    {
+        "from": "2025-01-30",
+        "to": "2025-01-31",
+        "email": "admin@ikarrental.hu",
+        "car": "1"
+    },
+    {
+        "from": "2025-01-11",
+        "to": "2025-01-15",
+        "email": "admin@ikarrental.hu",
+        "car": "2"
+    },
+    {
+        "from": "2025-01-11",
+        "to": "2025-01-15",
+        "email": "admin@ikarrental.hu",
+        "car": "3"
+    },
+    {
+        "from": "2025-01-11",
+        "to": "2025-01-15",
+        "email": "admin@ikarrental.hu",
+        "car": "12331"
+    }
+]

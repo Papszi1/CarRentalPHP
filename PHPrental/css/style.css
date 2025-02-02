@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main-h2-container {
+    margin: 50px;
+}
+
+.main-h2 {
+    font-size: 4rem;
+}
+
+.btn-signup {
+    margin: 10px;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.bg-lightdark {
+    background-color: #45494d;
+    color: white;
+    border-color: #45494d;
+}
+
+.bg-lightdark:focus {
+    background-color: #45494d;
+    color: white;
+    border-color: #000;
+
+}
+
+.filter-container {
+    width: 650px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+    border: solid 2px black;
+}
+
+.price-tag {
+    margin: -45px 10px 0 0;
+    font-size: 2rem;
+    text-align: right;
+    font-weight: bold;
+    text-shadow: 2px 2px #000;
+}
+
+.date-tag {
+    margin: -45px 10px 0 0;
+    font-size: 2rem;
+    text-align: right;
+    font-weight: bold;
+    text-shadow: 2px 2px #000;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.table-lightdark {
+    background-color: #45494d;
+    color: white;
+    border-color: white;
+}
+
+.image-container img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+  }
+
+.description-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
