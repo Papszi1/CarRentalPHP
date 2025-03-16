@@ -1,11 +1,5 @@
 [
     {
-        "from": "2025-01-01",
-        "to": "2025-01-10",
-        "email": "korchmaros.daniel@gmail.com",
-        "car": 1
-    },
-    {
         "from": "2025-01-12",
         "to": "2025-01-17",
         "email": "admin@ikarrental.hu",
@@ -34,5 +28,11 @@
         "to": "2025-01-15",
         "email": "admin@ikarrental.hu",
         "car": "12331"
+    },
+    {
+        "from": "2025-03-16",
+        "to": "2025-03-18",
+        "email": "paronka04@gmail.com",
+        "car": "1"
     }
 ]

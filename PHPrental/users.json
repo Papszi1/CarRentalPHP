@@ -4,5 +4,17 @@
         "email": "admin@ikarrental.hu",
         "password": "admin",
         "admin": true
+    },
+    {
+        "name": "nfjkfjnfnjk",
+        "email": "hjkhjk@gmail.com",
+        "password": "PaP2004PaP",
+        "admin": false
+    },
+    {
+        "name": "Pap \u00c1ron",
+        "email": "paronka04@gmail.com",
+        "password": "PaP2004PaP",
+        "admin": true
     }
 ]
