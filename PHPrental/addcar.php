@@ -11,7 +11,6 @@ if (!isset($_SESSION["user_id"])) {
     header("location: index.php");
   }
 }
-$szia = 100;
 $brand = $_POST['brand'] ?? '';
 $model = $_POST['model'] ?? '';
 $year = $_POST['year'] ?? '';
